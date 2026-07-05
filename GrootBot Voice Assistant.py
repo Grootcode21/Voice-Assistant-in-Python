@@ -6,6 +6,16 @@ GROOTBOT
 
 @author: ALIENWARE
 """
+
+#pip3 install pyttsx3
+#pip install SpeechRecognition
+#pip install pywhatkit
+#pip3 install yfinance
+#pip install pyjokes
+
+#for pyaudio installation
+#pip install pipwin
+
 import pyttsx3
 import speech_recognition as sr
 import webbrowser
